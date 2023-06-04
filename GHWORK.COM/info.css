@@ -1,0 +1,16 @@
+.logo{
+    width: 150px;
+    cursor: pointer;
+  }
+
+.submit-button {
+    padding: 20px 20px;
+    background-color: #02096a;
+    color: white;
+    font-size: 150%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border:#02096a;
+    border-radius: 20px 0 0 20px;
+    cursor: pointer;
+  }
+  
